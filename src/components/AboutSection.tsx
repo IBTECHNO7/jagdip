@@ -65,12 +65,17 @@ const AboutSection = () => {
                   <span className="text-sm text-muted-foreground">Fast Learner</span>
                 </div>
               </div>
-              
-              <Button className="mt-6 bg-primary hover:bg-primary/90 text-primary-foreground">
-                <a href="/resume-jagdip-singal.txt" target="_blank" rel="noopener noreferrer">
-                  View Resume
-                 </a>
-              </Button>
+                <a 
+                  href="https://jagdipsingal-d0fcb.web.app/resume-jagdip-singal.txt" 
+                  download="Jagdip_Singal_Resume.txt"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <Button className="mt-6 bg-primary hover:bg-primary/90 text-primary-foreground">
+                    View Resume
+                  </Button>
+                </a>
+
             </div>
           </div>
         </div>
