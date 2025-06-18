@@ -1,0 +1,80 @@
+Jagdip Singal  
+B.Tech Computer Science Engineering Student  
+Email: jagdipsingal7@gmail.com  
+Phone: +91-9579861668  
+Location: Vadodara, Gujarat  
+GitHub: https://github.com/IBTECHNO7  
+LinkedIn: https://in.linkedin.com/in/jagdip-singal-a728b127a  
+
+------------------------------------------------------------------  
+CAREER OBJECTIVE  
+------------------------------------------------------------------  
+Dedicated and highly motivated CSE student passionate about building clean, modern, and high-performing web applications. Seeking opportunities to grow in web development, cloud technologies, and impactful digital solutions.
+
+------------------------------------------------------------------  
+WORK EXPERIENCE  
+------------------------------------------------------------------  
+
+Parul University – IEP Department (June 2023 – Sept 2024)  
+Role: Technical & Operations Coordinator  
+• Managed internal student communication and mentoring programs for 1+ year  
+• Organized and supported tech and spiritual events, guiding 150+ students  
+• Provided internship guidance and skill development for academic and career growth  
+
+Salient Devs – Web Development Intern (Apr 2025 – Jun 2025)  
+• Built and deployed web applications using HTML, CSS, JavaScript, and React  
+• Gained hands-on experience with version control (Git), responsive design, and deployment  
+• Worked on real-time tasks for portfolio websites and client landing pages  
+
+------------------------------------------------------------------  
+TECHNICAL SKILLS  
+------------------------------------------------------------------  
+• Languages: HTML, CSS, JavaScript, TypeScript  
+• Libraries & Frameworks: React, Tailwind CSS  
+• Tools: Git, GitHub, Firebase, Vite, VS Code  
+• Deployment: GitHub Pages, Firebase Hosting  
+• UI Libraries: ShadCN/UI  
+
+------------------------------------------------------------------  
+PROJECTS  
+------------------------------------------------------------------  
+
+✨ **Portfolio Website**  
+• A clean, responsive personal portfolio to showcase projects and resume  
+• Firebase-hosted with downloadable resume and social media integration  
+• Tech: React, Tailwind CSS, Firebase Hosting  
+
+🚀 **Cybwuz – Tech Community Platform**  
+• Developed a hybrid social platform with features inspired by Reddit, Instagram & Discord  
+• Focused on student engagement, open discussions, and project showcases at Parul University  
+• Tech: React, Firebase, Firestore, Tailwind, Authentication  
+
+🛒 **Modern E-Commerce Platform**  
+• Full-stack application supporting cart, checkout, and user login  
+• Admin panel for product management, responsive UI, and animations  
+• Tech: React, Node.js (API), Firebase Auth, Tailwind  
+
+🧘‍♂️ **Spiritual Sabha Organizer App**  
+• Mobile-first web app for weekly spiritual meeting announcements  
+• Used by 150+ students to stay connected with the satsang community  
+• Tech: React, Tailwind CSS, Firebase Database  
+
+------------------------------------------------------------------  
+STRENGTHS  
+------------------------------------------------------------------  
+✓ Fast Learner and Independent Problem Solver  
+✓ Consistent, Creative, and Detail-Oriented  
+✓ Strong Spiritual Discipline and Team Leadership  
+
+------------------------------------------------------------------  
+EDUCATION  
+------------------------------------------------------------------  
+Bachelor of Technology (B.Tech) – Computer Science Engineering  
+Parul University, Vadodara  
+Graduation: 2026
+
+------------------------------------------------------------------  
+LANGUAGES  
+------------------------------------------------------------------  
+• English (Professional Proficiency)  
+• Hindi, Gujarati (Native) , Marathi
